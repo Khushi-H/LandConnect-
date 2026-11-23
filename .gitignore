@@ -1,0 +1,4 @@
+node_modules/
+landconnect.db
+.env
+.DS_Store
